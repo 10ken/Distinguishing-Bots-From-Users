@@ -56,5 +56,5 @@ This project presents a complete machine learning pipeline for classifying **use
 
 ---
 
-
-
+Kaggle Notebook:
+https://www.kaggle.com/code/kennethr/distinguishing-bots-from-users-val-f1-98
